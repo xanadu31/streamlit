@@ -1,4 +1,4 @@
-import streamlit as st
-import datetime
-import pandas as pd
-import numpy as np
+pip install streamlit
+pip install pandas
+pip install datetime
+pip install numpy
